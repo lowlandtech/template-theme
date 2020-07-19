@@ -11,7 +11,7 @@ contains the lowlandtech theme template
 ## Install packages
 
 ```bash
-   npm i bootstrap ngx-bootstrap simple-line-icons font-awesome flag-icon-css rxjs-compat --save-dev
+   npm i bootstrap ngx-bootstrap simple-line-icons font-awesome flag-icon-css rxjs-compat node-sass --save-dev
 ```
 
 ## Configure styles and scripts
