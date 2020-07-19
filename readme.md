@@ -5,7 +5,7 @@ contains the lowlandtech theme template
 
 ```bash
    npm i -g degit
-   degit https://github.com/lowlandtech/theme.git <destination folder>
+   degit github:lowlandtech/theme#master src/app
 ```
 
 ## Install packages
