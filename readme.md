@@ -1,10 +1,17 @@
 # Description
 contains the lowlandtech theme template
 
+## Import template
+
+```bash
+   npm i -g degit
+   degit https://github.com/lowlandtech/theme.git <destination folder>
+```
+
 ## Install packages
 
 ```bash
-   npm i bootstrap ng2-charts ngx-bootstrap simple-line-icons font-awesome flag-icon-css
+   npm i bootstrap ng2-charts ngx-bootstrap simple-line-icons font-awesome flag-icon-css rxjs --save-dev
 ```
 
 ## Configure styles and scripts
