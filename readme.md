@@ -31,13 +31,13 @@ contains the lowlandtech theme template
 ```json
 // angular.json
 ...
-   "architect": {
-     "build": {
-       "builder": "@angular-devkit/build-angular:browser",
-       "options": {
-         "allowedCommonJsDependencies": [
-           "rxjs",
-           "rxjs-compat"
-         ],
+"architect": {
+  "build": {
+    "builder": "@angular-devkit/build-angular:browser",
+    "options": {
+      "allowedCommonJsDependencies": [
+        "rxjs",
+        "rxjs-compat"
+      ],
 ...
 ```
