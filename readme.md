@@ -18,9 +18,9 @@ contains the lowlandtech theme template
 
 ```json
 "styles": [
-    "../node_modules/flag-icon-css/css/flag-icon.css",
-    "../node_modules/font-awesome/css/font-awesome.css",
-    "../node_modules/simple-line-icons/css/simple-line-icons.css",
-    "styles/style.scss"
+  "node_modules/flag-icon-css/css/flag-icon.css",
+  "node_modules/font-awesome/css/font-awesome.css",
+  "node_modules/simple-line-icons/css/simple-line-icons.css",
+  "src/styles/style.scss"
 ],
 ```
