@@ -5,13 +5,13 @@ contains the lowlandtech theme template
 
 ```bash
    npm i -g degit
-   degit github:lowlandtech/theme#master src/app
+   degit github:lowlandtech/theme#master src
 ```
 
 ## Install packages
 
 ```bash
-   npm i bootstrap ng2-charts ngx-bootstrap simple-line-icons font-awesome flag-icon-css rxjs --save-dev
+   npm i bootstrap ngx-bootstrap simple-line-icons font-awesome flag-icon-css rxjs --save-dev
 ```
 
 ## Configure styles and scripts
@@ -22,9 +22,5 @@ contains the lowlandtech theme template
     "../node_modules/font-awesome/css/font-awesome.css",
     "../node_modules/simple-line-icons/css/simple-line-icons.css",
     "styles/style.scss"
-],
-"scripts": [
-    "../node_modules/chart.js/dist/Chart.bundle.min.js",
-    "../node_modules/chart.js/dist/Chart.min.js"
 ],
 ```
