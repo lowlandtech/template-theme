@@ -27,6 +27,9 @@ contains the lowlandtech theme template
   "src/styles/style.scss"
 ],
 ```
+now run ng build
+
+if you get warnings related to rxjs add the following:
 
 ```json
 // angular.json
